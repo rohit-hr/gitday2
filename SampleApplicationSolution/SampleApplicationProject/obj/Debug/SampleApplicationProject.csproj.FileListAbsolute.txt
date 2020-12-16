@@ -1,0 +1,7 @@
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.exe.config
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.exe
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.pdb
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.csprojAssemblyReference.cache
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.csproj.CoreCompileInputs.cache
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.exe
+D:\LTI-Training\Specialization\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.pdb
