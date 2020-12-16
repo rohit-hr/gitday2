@@ -7,6 +7,3 @@ This is a sample text file.
 
 
 Edit made in local repo.
-
-Edit Made in GitHub (remote repository)
-
